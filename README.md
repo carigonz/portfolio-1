@@ -22,7 +22,7 @@ La idea de este proyecto es que podamos ejercitar todo lo aprendido sobre HTML y
 
 * La altura de la sección de bienvenida debe ser igual a la altura del [viewport](https://developer.mozilla.org/es/docs/Glossary/Viewport).
 
-Historia de usuario n. ° 11: la barra de navegación siempre debe estar en la parte superior de la ventana gráfica.
+* La barra de navegación siempre debe estar en la parte superior de la ventana gráfica.
 
 ## Portfolios de ejemplo... inspirence!
 * [Mi primer portfolio <3](https://carigonz.github.io/portfolio/)
